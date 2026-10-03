@@ -26,8 +26,10 @@ The repository preserves not only what was built, but why it was built, how deci
 - [Constitution](CONSTITUTION.md)
 - [How We Work](HOW-WE-WORK.md)
 - [Roadmap](ROADMAP.md)
+- [Hardware](HARDWARE.md)
 - [Architecture Decision Records](decisions/)
 - [Experiments](experiments/)
 - [Lab Reports](lab-reports/)
+- [Founding-day transcript](notes/ai-lab-founding-day.txt)
 
 Nothing is ever pretended to be understood.
