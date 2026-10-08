@@ -187,77 +187,77 @@ Stats
 Tools
 Array Devices
 Device 	Identification 	Temp 	Reads 	Writes 	Errors 	FS 	Size 	Used 	Free
-Parity	WDC_WUH721414ALE604_9MJB8EAT - 14 TB (sdk)	39 °C	69.5 MB/s	0.0 B/s	0	
-Parity 2	WDC_WUH721414ALE604_9MJBK5ZT - 14 TB (sdi)	38 °C	70.0 MB/s	69.5 MB/s	0	
-Disk 1	HGST_HUH721010ALE604_2TJ8V9AD - 10 TB (sdh)	40 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
+Parity	WDC_WUH721414ALE604_[serial redacted] - 14 TB (sdk)	39 °C	69.5 MB/s	0.0 B/s	0	
+Parity 2	WDC_WUH721414ALE604_[serial redacted] - 14 TB (sdi)	38 °C	70.0 MB/s	69.5 MB/s	0	
+Disk 1	HGST_HUH721010ALE604_[serial redacted] - 10 TB (sdh)	40 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
 7.51 TB
 	
 2.49 TB
-Disk 2	HGST_HUH721010ALE604_2TJWJHLD - 10 TB (sdm)	35 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 2	HGST_HUH721010ALE604_[serial redacted] - 10 TB (sdm)	35 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
 6.82 TB
 	
 3.18 TB
-Disk 3	WDC_WD100EMAZ-00WJTA0_1EG1SJXZ - 10 TB (sdb)	37 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 3	WDC_WD100EMAZ-00WJTA0_[serial redacted] - 10 TB (sdb)	37 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
 6.70 TB
 	
 3.30 TB
-Disk 4	WDC_WD100EMAZ-00WJTA0_1EGEK10Z - 10 TB (sdc)	41 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 4	WDC_WD100EMAZ-00WJTA0_[serial redacted] - 10 TB (sdc)	41 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
 6.70 TB
 	
 3.30 TB
-Disk 5	WDC_WD100EMAZ-00WJTA0_1EG1YXAZ - 10 TB (sdl)	35 °C	70.0 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 5	WDC_WD100EMAZ-00WJTA0_[serial redacted] - 10 TB (sdl)	35 °C	70.0 MB/s	0.0 B/s	0	xfs	10 TB	
 6.74 TB
 	
 3.26 TB
-Disk 6	WDC_WD100EZAZ-11TDBA0_JEKUA54Z - 10 TB (sda)	36 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 6	WDC_WD100EZAZ-11TDBA0_[serial redacted] - 10 TB (sda)	36 °C	69.7 MB/s	0.0 B/s	0	xfs	10 TB	
 6.70 TB
 	
 3.30 TB
-Disk 7	WDC_WD100EZAZ-11TDBA0_JEK6052N - 10 TB (sde)	39 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
+Disk 7	WDC_WD100EZAZ-11TDBA0_[serial redacted] - 10 TB (sde)	39 °C	69.5 MB/s	0.0 B/s	0	xfs	10 TB	
 6.70 TB
 	
 3.29 TB
-Disk 8	ST8000DM004-2CX188_ZCT07MB5 - 8 TB (sdd)	39 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 8	ST8000DM004-2CX188_[serial redacted] - 8 TB (sdd)	39 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
 4.72 TB
 	
 3.28 TB
-Disk 9	ST8000DM004-2CX188_ZR115NG2 - 8 TB (sdf)	36 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 9	ST8000DM004-2CX188_[serial redacted] - 8 TB (sdf)	36 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
 4.70 TB
 	
 3.30 TB
-Disk 10	ST8000DM004-2CX188_WCT0LQ3K - 8 TB (sdg)	39 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 10	ST8000DM004-2CX188_[serial redacted] - 8 TB (sdg)	39 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
 4.71 TB
 	
 3.29 TB
-Disk 11	WDC_WD80EFZX-68UW8N0_R5GLDSWV - 8 TB (sdn)	37 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 11	WDC_WD80EFZX-68UW8N0_[serial redacted] - 8 TB (sdn)	37 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
 4.70 TB
 	
 3.30 TB
-Disk 12	ST8000DM004-2CX188_WCT0L9XZ - 8 TB (sdo)	34 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 12	ST8000DM004-2CX188_[serial redacted] - 8 TB (sdo)	34 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
 4.72 TB
 	
 3.28 TB
-Disk 13	WDC_WD80EFZX-68UW8N0_R6GUTXWY - 8 TB (sdp)	38 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 13	WDC_WD80EFZX-68UW8N0_[serial redacted] - 8 TB (sdp)	38 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
 4.75 TB
 	
 3.25 TB
-Disk 14	WDC_WD80EFZX-68UW8N0_R6GN71YY - 8 TB (sdq)	31 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 14	WDC_WD80EFZX-68UW8N0_[serial redacted] - 8 TB (sdq)	31 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
 4.72 TB
 	
 3.28 TB
-Disk 15	WDC_WD80EFZX-68UW8N0_R6GNKXGY - 8 TB (sdr)	30 °C	70.0 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 15	WDC_WD80EFZX-68UW8N0_[serial redacted] - 8 TB (sdr)	30 °C	70.0 MB/s	0.0 B/s	0	xfs	8 TB	
 4.71 TB
 	
 3.29 TB
-Disk 16	WDC_WD80EZZX-11CSGA0_VKGM7P9X - 8 TB (sds)	31 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 16	WDC_WD80EZZX-11CSGA0_[serial redacted] - 8 TB (sds)	31 °C	69.5 MB/s	0.0 B/s	0	xfs	8 TB	
 4.76 TB
 	
 3.23 TB
-Disk 17	WDC_WD80EZZX-11CSGA0_VLG72NKY - 8 TB (sdt)	32 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
+Disk 17	WDC_WD80EZZX-11CSGA0_[serial redacted] - 8 TB (sdt)	32 °C	69.7 MB/s	0.0 B/s	0	xfs	8 TB	
 4.76 TB
 	
 3.24 TB
-Disk 18	HGST_HDS5C4040ALE630_PL2321LAG4AVWJ - 4 TB (sdj)	36 °C	70.0 MB/s	0.0 B/s	0	xfs	4 TB	
+Disk 18	HGST_HDS5C4040ALE630_[serial redacted] - 4 TB (sdj)	36 °C	70.0 MB/s	0.0 B/s	0	xfs	4 TB	
 2.61 TB
 	
 1.39 TB
@@ -271,13 +271,13 @@ Cache	Data Partition (ONLINE)		btrfs	1 TB
 109 GB
 	
 889 GB
-Device 1	Samsung_SSD_970_EVO_Plus_1TB_S59ANM0W431958L - 1 TB (nvme2n1)	36 °C	0.0 B/s	0.0 B/s	0	
-Device 2	Samsung_SSD_970_EVO_Plus_1TB_S59ANM0W431990P - 1 TB (nvme1n1)	32 °C	0.0 B/s	0.0 B/s	0	
+Device 1	Samsung_SSD_970_EVO_Plus_1TB_[serial redacted] - 1 TB (nvme2n1)	36 °C	0.0 B/s	0.0 B/s	0	
+Device 2	Samsung_SSD_970_EVO_Plus_1TB_[serial redacted] - 1 TB (nvme1n1)	32 °C	0.0 B/s	0.0 B/s	0	
 	Pool of two devices	34 °C	0.0 B/s	0.0 B/s	0		
 
 Boot Device
 Device 	Identification 	Temp 	Reads 	Writes 	Errors 	FS 	Size 	Used 	Free
-Boot(Flash)	SanDisk_Cruzer_Fit_4C530001311029112220-0:0 - 7.8 GB (sdv)	*	0.0 B/s	0.0 B/s	0	vfat	7.8 GB	
+Boot(Flash)	SanDisk_Cruzer_Fit_[serial redacted]-0:0 - 7.8 GB (sdv)	*	0.0 B/s	0.0 B/s	0	vfat	7.8 GB	
 1.65 GB
 	
 6.14 GB
@@ -290,12 +290,12 @@ Shares
 Disks
 Unassigned Disk Devices
 Device 	Identification 		Temp. 	Reads 	Writes 	Settings 	FS 	Size 	Used 	Free
-dev1	SATA_SSD_19071110242165 (sdw)		33 °C	0.0 B/s	0.0 B/s		btrfs	1.02 TB		
-	1 19071110242165						btrfs	0 B		
-dev2	SATA_SSD_19071110242270 (sdu)		33 °C	0.0 B/s	0.0 B/s		btrfs	1.02 TB		
-	1 19071110242270						btrfs	0 B		
-dev3	Samsung_SSD_970_EVO_1TB_S467NX0M703721Y (nvme0n1)		28 °C	0.0 B/s	0.0 B/s		btrfs	1 TB		
-	1 S467NX0M703721Y						btrfs	0 B		
+dev1	SATA_SSD_[serial redacted] (sdw)		33 °C	0.0 B/s	0.0 B/s		btrfs	1.02 TB		
+	1 [serial redacted]						btrfs	0 B		
+dev2	SATA_SSD_[serial redacted] (sdu)		33 °C	0.0 B/s	0.0 B/s		btrfs	1.02 TB		
+	1 [serial redacted]						btrfs	0 B		
+dev3	Samsung_SSD_970_EVO_1TB_[serial redacted] (nvme0n1)		28 °C	0.0 B/s	0.0 B/s		btrfs	1 TB		
+	1 [serial redacted]						btrfs	0 B		
 
 
 SMB Shares | NFS Shares | ISO File Shares
