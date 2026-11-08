@@ -8,6 +8,13 @@ Primary AI development and local-LLM workstation.
 - NVIDIA GeForce RTX 5080
 - Runs local LLMs and primary AI development workloads
 
+## MacBook
+
+Portable AI Lab workstation.
+
+- Apple M5 Pro chip (confirmed by Sean, 2026-11-08)
+- RAM and storage configuration not yet recorded
+
 ## JARVIS
 
 Unraid-based lab infrastructure.
