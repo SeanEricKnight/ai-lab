@@ -63,7 +63,8 @@ No inference speed or memory-pressure tests have been run.
 ## Connectivity [Measured]
 
 - SSH config contains one host, `jarvis`. TCP/22 was **unreachable** from the Mac at check time (cause unknown: off-LAN, SSH disabled, or name resolution).
-- No PowerSpec host is configured on the Mac. No remote AI endpoint is configured.
+- PowerSpec G913 (Windows 11): **reachable by IPv4 from the Mac on 2026-11-08**, confirmed by Sean's Terminal output (4/4 ICMP replies, 0% packet loss, average round-trip 6.789 ms). Its human-readable `PowerSpec` hostname did not resolve on the Mac. The address is deliberately omitted from this repository per inventory privacy rules. This verifies IP connectivity only, not remote-shell or AI API access.
+- No PowerSpec SSH host alias or remote AI endpoint was configured at the time of the initial inventory; current remote-service status remains unverified.
 
 ## Local AI capability
 
@@ -88,7 +89,7 @@ No inference speed or memory-pressure tests have been run.
 
 ## Open items (not verified)
 
-- PowerSpec and JARVIS addresses/hostnames in project records; why `jarvis` SSH is unreachable.
+- PowerSpec name resolution, remote administration, and AI API access; why `jarvis` SSH is unreachable. PowerSpec IPv4 connectivity has been confirmed; its address remains local-only and is intentionally not committed.
 - Whether Node, Claude Code, Codex, Docker or the VS Code CLI exist outside PATH.
 - Memory bandwidth, tokens/s, and practical context limits for each installed model.
 - Meaning of the three Ethernet adapters.
