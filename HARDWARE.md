@@ -13,7 +13,8 @@ Primary AI development and local-LLM workstation.
 Portable AI Lab workstation.
 
 - Apple M5 Pro chip (confirmed by Sean, 2026-11-08)
-- RAM and storage configuration not yet recorded
+- 24 GB unified memory (confirmed by Sean, 2026-11-08)
+- Storage configuration not yet recorded
 
 ## JARVIS
 
