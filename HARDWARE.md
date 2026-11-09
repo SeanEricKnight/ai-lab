@@ -2,11 +2,12 @@
 
 ## PowerSpec G913
 
-Primary AI development and local-LLM workstation.
+Primary AI development, local-LLM, and video generation workstation. Verified 2026-11-09. Full inventory and benchmarks are in [POWERSPEC-ENVIRONMENT.md](POWERSPEC-ENVIRONMENT.md).
 
 - AMD Ryzen 9 9900X3D
-- NVIDIA GeForce RTX 5080
-- Runs local LLMs and primary AI development workloads
+- NVIDIA GeForce RTX 5080, 16 GB VRAM, and approximately 64 GB system RAM
+- Windows 11, Ollama, LM Studio, and Comfy Desktop
+- Verified Wan 2.2 14B FP8 Lightning text-to-video at 640 × 640 in about 65 seconds per five-second clip
 
 ## MacBook
 
