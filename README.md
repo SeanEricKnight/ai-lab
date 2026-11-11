@@ -27,6 +27,7 @@ The repository preserves not only what was built, but why it was built, how deci
 - [How We Work](HOW-WE-WORK.md)
 - [Roadmap](ROADMAP.md)
 - [Hardware](HARDWARE.md)
+- [Jarvis Qwen3 MoE offloading runbook](jarvis/QWEN3-MOE-OFFLOADING.md)
 - [Architecture Decision Records](decisions/)
 - [Experiments](experiments/)
 - [Lab Reports](lab-reports/)
