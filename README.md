@@ -28,6 +28,7 @@ The repository preserves not only what was built, but why it was built, how deci
 - [Roadmap](ROADMAP.md)
 - [Hardware](HARDWARE.md)
 - [Jarvis Qwen3 MoE offloading runbook](jarvis/QWEN3-MOE-OFFLOADING.md)
+- [Jarvis Disk 9/10 recovery checkpoint (2026-11-11)](jarvis/DISK9-DISK10-RECOVERY-2026-11-11.md)
 - [Architecture Decision Records](decisions/)
 - [Experiments](experiments/)
 - [Lab Reports](lab-reports/)
